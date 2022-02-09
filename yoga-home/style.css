@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+img{
+    display: block;
+    margin: 142px auto 0 auto;
+    height: 330px;
+}
+
+.dots{
+    text-align: center;
+    font-size: 60px;
+    margin-top: 10px;
+}
+
+.introduction{
+    margin: 70px 40px 0 40px;
+    color: #000000;
+    text-align: center;
+    font-size: 26px;
+}
+
+button{
+    background-color: #323232;
+    display: block;
+    margin: 90px auto;
+    color: white;
+    width: 150px;
+    height: 50px;
+    font-size: 15px;
+    border-radius: 15px;
+}
